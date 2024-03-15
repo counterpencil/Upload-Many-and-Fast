@@ -16,10 +16,10 @@ npm install<br/>
 npm run dev
 
 ## front side
-Sending asynchronously bundle count : CHUNK_SIZE = 15;
-Synchronously post count limit : const MAX_UPLOAD_CHUNK_NUMBER = 10;
-retry count : MAX_RETRY = 2;
+Sending asynchronously bundle count : CHUNK_SIZE = 15; <br/>
+Synchronously post count limit : const MAX_UPLOAD_CHUNK_NUMBER = 10;<br/>
+retry count : MAX_RETRY = 2;<br/>
 
 ## server side
-file type ->default setting : image or csv  allowed
+file type ->default setting : image or csv  allowed<br/>
 
