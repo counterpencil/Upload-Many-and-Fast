@@ -21,5 +21,5 @@ Synchronously post count limit : const MAX_UPLOAD_CHUNK_NUMBER = 10;
 retry count : MAX_RETRY = 2;
 
 ## server side
-file type ->d efault setting : image or csv  allowed
+file type ->default setting : image or csv  allowed
 
